@@ -28,7 +28,7 @@ your Supplejack API and your API key.
 ## Running / Development via fastboot
 
 * `ember build`
-* `npm run fastoot`
+* `npm run fastboot`
 *  visit your app at http://localhost:8000)
 
 ### Code Generators
@@ -46,7 +46,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build --environment production` (production)
 
 ## Further Reading / Useful Links
-
+* [Live site!](http://eln-sj4.is.sfu.ca:8000/search)
 * https://github.com/OurDigitalWorld/supplejack-ember/wiki/Ember-Client-in-the-cloud
 * https://github.com/OurDigitalWorld/supplejack-ember/wiki/Ember-client
 * [ember.js](http://emberjs.com/)

@@ -6,13 +6,10 @@
       {{!link allows you to reset the query params, which is useful because they're normally sticky in Ember}}
       {{#link-to "search" (query-params page=1 per_page=20 and='' text='' geo_bbox='') current-when="search"}}
         <div id="title-img-container">
-          <img src="/assets/bcpdl2.png">
-          <img src="/assets/odw.png">
+          <img src="/assets/combined3.png" style="border: #d3d3d3 .85px solid; border-radius: 4px;" >
+
         </div>
         <div id="title-text-container">
-          <h1>BCDL-ODW</h1>
-          <div class="subtitle">{{t "site.subtitle"}}</div>
-          <span class="label label-primary">Prototype</span>
           <div class="emptyBlock"></div> 
         </div>
       {{/link-to}}
